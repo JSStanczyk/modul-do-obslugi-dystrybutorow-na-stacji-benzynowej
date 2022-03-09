@@ -1,0 +1,82 @@
+
+Klient 1
+Rodzaj paliwa: Disel
+Zatankowano: 14.01 L
+Za kwotę: 54.51 zł
+Stan paliwa: 985.99 L
+
+Klient 2
+Rodzaj paliwa: Gaz
+Zatankowano: 12.11 L
+Za kwotę: 30.04 zł
+Stan paliwa: 987.89 L
+
+Klient 3
+Rodzaj paliwa: Benzyna
+Zatankowano: 21.61 L
+Za kwotę: 94.87 zł
+Stan paliwa: 978.39 L
+
+Klient 4
+Rodzaj paliwa: Gaz
+Zatankowano: 20.04 L
+Za kwotę: 49.69 zł
+Stan paliwa: 967.85 L
+
+		Dostawa
+			{
+				Typ paliwa: Gaz
+				Dostarczono: 55.00 L
+				Stan paliwa: 1022.85 L
+			}
+
+Klient 5
+Rodzaj paliwa: Benzyna
+Zatankowano: 17.82 L
+Za kwotę: 78.24 zł
+Stan paliwa: 960.57 L
+
+Klient 6
+Rodzaj paliwa: Disel
+Zatankowano: 34.82 L
+Za kwotę: 135.45 zł
+Stan paliwa: 951.17 L
+
+		Dostawa
+			{
+				Typ paliwa: Disel
+				Dostarczono: 100.00 L
+				Stan paliwa: 1051.17 L
+			}
+
+		Dostawa
+			{
+				Typ paliwa: Gaz
+				Dostarczono: 10.00 L
+				Stan paliwa: 1032.85 L
+			}
+
+Klient 7
+Rodzaj paliwa: Disel
+Zatankowano: 0.71 L
+Za kwotę: 2.75 zł
+Stan paliwa: 1050.46 L
+
+		Dostawa
+			{
+				Typ paliwa: Benzyna
+				Dostarczono: 115.00 L
+				Stan paliwa: 1075.57 L
+			}
+
+Klient 8
+Rodzaj paliwa: Benzyna
+Zatankowano: 19.90 L
+Za kwotę: 87.38 zł
+Stan paliwa: 1055.66 L
+
+Klient 9
+Rodzaj paliwa: Disel
+Zatankowano: 19.75 L
+Za kwotę: 76.83 zł
+Stan paliwa: 1030.71 L

@@ -1,0 +1,1 @@
+g++ -std=c++17 -Iinc src/*.cpp -o bin/main.out
